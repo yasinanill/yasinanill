@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm YASİN</h1>
-<h3 align="center">I'm based in Anatalya/Turkiye</h3>
+<h3 align="center"></h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinanill&label=Profile%20views&color=0e75b6&style=flat" alt="yasinanill" /> </p>
-
+I'm based in Anatalya/Turkiye
 - You can contact me at [yasinkaya687@gmail.com](yasinkaya687@gmail.com)
 
 - 🌱 I’m currently learning **Design Pattern**
