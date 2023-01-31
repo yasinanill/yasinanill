@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASİN</h1>
 <h3 align="center">I'm based in Anatalya/Turkiye</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1zT6DnSgKCjHSo4EG_L6X8&ust=1675288490210000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDRjI3m8vwCFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1zT6DnSgKCjHSo4EG_L6X8&ust=1675288490210000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMDRjI3m8vwCFQAAAAAdAAAAABAJ" />
 
 
 
